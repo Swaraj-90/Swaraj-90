@@ -1,7 +1,7 @@
 # Hi there, I'm Swaraj 👋  
 
 🚀 Passionate about **Web3, AI, and Software Development**  
-🎓  **Recently Graduated** | 📍 India  
+🎓  **Recently Graduated(B.E IT)** | 📍 India  
 📊 Exploring **Crypto, Data Science & DSA**  
 💡 Believer in learning by building and sharing knowledge  
 
