@@ -60,7 +60,7 @@
 - 💼 [LinkedIn]((https://www.linkedin.com/in/swaraj-warudkar-jain-56606821b/))  
 - 🐦 [Twitter]((https://x.com/swaraj_warudkar))  
 - 🌐 [Portfolio Website](https://github.com/) *(coming soon)*  
-- 📧 Reach me at: **swarajwarudkar@gmail.com.com**  
+- 📧 Reach me at: **swarajwarudkar@gmail.com**  
 
 ---
 
